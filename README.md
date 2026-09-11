@@ -96,10 +96,17 @@ Coin half-cells were assembled in an argon glovebox using lithium as the counter
 
 ### Electrochemical Characterization
 
-- Open-circuit voltage (OCV)
-- Cyclic voltammetry (CV)
-- Galvanostatic charge-discharge cycling
-- Electrochemical impedance spectroscopy (EIS)
+- ### Cyclic Voltammetry
+
+![Cyclic voltammetry response of the SiGC electrode](figures/cyclic_voltammetry.png)
+
+- ### Initial Charge–Discharge
+
+![Initial charge-discharge behavior of the SiGC electrode](figures/initial_charge_discharge.png)
+
+- ### Final Charge–Discharge
+
+![Final charge-discharge behavior of the SiGC electrode](figures/final_charge_discharge.png)
 
 ---
 
