@@ -199,39 +199,6 @@ This makes silicon particle-size control an important processing variable for ba
 
 ---
 
-**Skills Demonstrated**
-
-_Materials & Processing_
-
-- Composite anode fabrication
-- Solution/precursor processing
-- Hydrothermal synthesis
-- Carbonization
-- Electrode fabrication
-- Calendering
-
-_Materials Characterization_
-
-- XRD
-- TEM
-- EDS
-- Elemental mapping
-
-_Electrochemical Characterization_
-
-- Cyclic voltammetry
-- Galvanostatic charge-discharge
-- Open-circuit voltage
-- Electrochemical impedance spectroscopy
-
-_Materials Analysis_
-
-- Structure–property interpretation
-- Processing–performance relationships
-- Electrochemical performance comparison
-- Cycling stability analysis
-- Research Context
-
 This work was conducted as part of research at the **Energy Science Laboratory, IISER Pune**, with support from the **Department of Metallurgy and Materials Technology, COEP Technological University**.
 
 The manuscript acknowledges the guidance of **Dr. Satishchandra Ogale and his research team**.
