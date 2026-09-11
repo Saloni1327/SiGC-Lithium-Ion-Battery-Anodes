@@ -14,13 +14,29 @@ The study focused on understanding how silicon particle-size control influences 
 
 ---
 
-## Research Objectives
+### Experimental Approach
 
-- Develop a silicon–graphite–carbon composite anode using sucrose as a carbon precursor.
-- Investigate the influence of silicon sieving on electrochemical performance.
-- Characterize the structural and microstructural features of the resulting composite.
-- Evaluate electrochemical behavior through cyclic voltammetry and charge-discharge cycling.
-- Compare initial specific capacity and long-term capacity retention for sieved and unsieved silicon.
+The work involved:
+
+- Preparation of SiGC composite materials using sucrose.
+- Hydrothermal treatment and carbonization.
+- Electrode fabrication using the prepared composite.
+- Structural and morphological characterization using XRD, TEM, EDS, and elemental mapping.
+- Electrochemical evaluation using OCV, cyclic voltammetry, and charge–discharge testing.
+
+---
+
+### Key Findings
+
+The study examined the relationship between composite processing, material structure, and electrochemical behavior. The reported results indicate that sucrose-derived carbon and processing conditions influence the structural characteristics and cycling performance of the SiGC electrodes.
+
+The detailed numerical results are reported in the associated manuscript. Raw experimental data are not included in this repository.
+
+---
+
+### My Contribution
+
+My contribution included composite preparation, materials characterization, electrochemical testing, analysis of the experimental results, and preparation of the research manuscript.
 
 ---
 
