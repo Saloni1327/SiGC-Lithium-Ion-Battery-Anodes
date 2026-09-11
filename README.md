@@ -67,6 +67,13 @@ Coin half-cells were assembled in an argon glovebox using lithium as the counter
 
 ---
 
+## Experimental Workflow
+
+![SiGC composite preparation and electrode fabrication workflow](figures/process_flowchart.png)
+
+---
+
+
 ## Characterization
 
 ### Structural & Microstructural Characterization
@@ -185,7 +192,6 @@ This work was conducted as part of research at the **Energy Science Laboratory, 
 The manuscript acknowledges the guidance of **Dr. Satishchandra Ogale and his research team**.
 
 ---
-
 
 ## Project Workflow
 
