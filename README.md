@@ -81,9 +81,15 @@ Coin half-cells were assembled in an argon glovebox using lithium as the counter
 - ### X-ray Diffraction
 
 ![X-ray diffraction analysis of SiGC composite materials](figures/xrd_analysis.png)
+
 - Transmission electron microscopy (TEM)
-- Energy-dispersive spectroscopy (EDS)
-- Elemental mapping
+- ### Energy-Dispersive X-ray Spectroscopy
+
+![EDS analysis of the SiGC composite](figures/eds_analysis.png)
+
+- ### Elemental Mapping
+
+![Elemental mapping of the SiGC composite](figures/elemental_mapping.png)
 
 ### Electrochemical Characterization
 
