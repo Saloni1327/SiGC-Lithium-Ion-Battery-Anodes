@@ -14,6 +14,20 @@ The study focused on understanding how silicon particle-size control influences 
 
 ---
 
+## Project Highlights
+
+| Category | Details |
+|---|---|
+| Material system | Silicon–graphite–carbon composite anodes |
+| Carbon source | Sucrose |
+| Composite ratio | Si:G:C = 3:10:7 |
+| Battery application | Lithium-ion battery anodes |
+| Structural techniques | XRD, TEM, EDS, elemental mapping |
+| Electrochemical techniques | OCV, cyclic voltammetry, charge–discharge testing |
+| Research output | Manuscript preparation in progress |
+
+---
+
 ## Skills Demonstrated
 
 - **Materials synthesis:** Si–graphite–carbon composite preparation and sucrose-derived carbon processing
@@ -22,6 +36,15 @@ The study focused on understanding how silicon particle-size control influences 
 - **Electrochemical testing:** Open-circuit voltage, cyclic voltammetry, and charge–discharge measurements
 - **Data interpretation:** Correlation of processing conditions, material structure, and electrochemical response
 - **Scientific communication:** Research analysis, manuscript preparation, and technical figure development
+
+---
+
+## Repository Navigation
+
+- [Figures](figures/) — Selected processing, structural, and electrochemical figures
+- [Data](data/) — Data documentation and availability notes
+- [Analysis](analysis/) — Analysis documentation
+- [Results](results/) — Results documentation
 
 ---
 
@@ -34,20 +57,6 @@ The work involved:
 - Electrode fabrication using the prepared composite.
 - Structural and morphological characterization using XRD, TEM, EDS, and elemental mapping.
 - Electrochemical evaluation using OCV, cyclic voltammetry, and charge–discharge testing.
-
----
-
-### Key Findings
-
-The study examined the relationship between composite processing, material structure, and electrochemical behavior. The reported results indicate that sucrose-derived carbon and processing conditions influence the structural characteristics and cycling performance of the SiGC electrodes.
-
-The detailed numerical results are reported in the associated manuscript. Raw experimental data are not included in this repository.
-
----
-
-### My Contribution
-
-My contribution included composite preparation, materials characterization, electrochemical testing, analysis of the experimental results, and preparation of the research manuscript.
 
 ---
 
