@@ -78,7 +78,9 @@ Coin half-cells were assembled in an argon glovebox using lithium as the counter
 
 ### Structural & Microstructural Characterization
 
-- X-ray diffraction (XRD)
+- ### X-ray Diffraction
+
+![X-ray diffraction analysis of SiGC composite materials](figures/xrd_analysis.png)
 - Transmission electron microscopy (TEM)
 - Energy-dispersive spectroscopy (EDS)
 - Elemental mapping
