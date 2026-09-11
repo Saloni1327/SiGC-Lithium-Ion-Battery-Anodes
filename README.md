@@ -14,6 +14,17 @@ The study focused on understanding how silicon particle-size control influences 
 
 ---
 
+## Skills Demonstrated
+
+- **Materials synthesis:** Si–graphite–carbon composite preparation and sucrose-derived carbon processing
+- **Electrode fabrication:** Preparation of composite-based lithium-ion battery electrodes
+- **Materials characterization:** XRD, TEM, EDS, and elemental mapping
+- **Electrochemical testing:** Open-circuit voltage, cyclic voltammetry, and charge–discharge measurements
+- **Data interpretation:** Correlation of processing conditions, material structure, and electrochemical response
+- **Scientific communication:** Research analysis, manuscript preparation, and technical figure development
+
+---
+
 ### Experimental Approach
 
 The work involved:
