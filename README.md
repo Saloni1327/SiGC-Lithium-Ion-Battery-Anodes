@@ -82,7 +82,10 @@ Coin half-cells were assembled in an argon glovebox using lithium as the counter
 
 ![X-ray diffraction analysis of SiGC composite materials](figures/xrd_analysis.png)
 
-- Transmission electron microscopy (TEM)
+- ### Transmission Electron Microscopy
+
+![TEM microstructure of the SiGC composite](figures/tem_microstructure.png)
+
 - ### Energy-Dispersive X-ray Spectroscopy
 
 ![EDS analysis of the SiGC composite](figures/eds_analysis.png)
