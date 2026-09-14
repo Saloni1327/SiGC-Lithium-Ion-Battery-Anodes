@@ -4,6 +4,8 @@
 
 ### Development and electrochemical evaluation of sucrose-derived silicon–graphite–carbon composite anodes
 
+> **Publication status:** Manuscript in preparation. This repository provides a high-level research overview; detailed experimental data and analysis are reserved for publication.
+
 ## Overview
 
 Silicon is a promising next-generation anode material for lithium-ion batteries because of its high theoretical specific capacity. However, large volume changes during lithiation/delithiation and associated electrode degradation limit its practical application.
@@ -16,17 +18,19 @@ The study focused on understanding how silicon particle-size control influences 
 
 ---
 
-## Project Highlights
+## Research Highlights
 
 | Category | Details |
 |---|---|
-| Material system | Silicon–graphite–carbon composite anodes |
-| Carbon source | Sucrose |
+| Material system | Silicon–graphite–carbon (SiGC) composite |
+| Carbon precursor | Sucrose |
 | Composite ratio | Si:G:C = 3:10:7 |
-| Battery application | Lithium-ion battery anodes |
-| Structural techniques | XRD, TEM, EDS, elemental mapping |
-| Electrochemical techniques | OCV, cyclic voltammetry, charge–discharge testing |
-| Research output | Manuscript preparation in progress |
+| Application | Lithium-ion battery anodes |
+| Processing | Hydrothermal treatment and carbonization |
+| Characterization | XRD, TEM, EDS, elemental mapping |
+| Electrochemical testing | OCV, cyclic voltammetry, charge–discharge cycling |
+| Comparative study | Sieved vs. unsieved silicon |
+| Research output | Manuscript in preparation |
 
 ---
 
@@ -50,15 +54,25 @@ The study focused on understanding how silicon particle-size control influences 
 
 ---
 
-### Experimental Approach
+## Research Approach
 
-The work involved:
+The study followed the general workflow:
 
-- Preparation of SiGC composite materials using sucrose.
-- Hydrothermal treatment and carbonization.
-- Electrode fabrication using the prepared composite.
-- Structural and morphological characterization using XRD, TEM, EDS, and elemental mapping.
-- Electrochemical evaluation using OCV, cyclic voltammetry, and charge–discharge testing.
+**Si + Graphite + Sucrose**  
+↓  
+**Composite Preparation**  
+↓  
+**Hydrothermal Processing**  
+↓  
+**Carbonization**  
+↓  
+**Electrode Fabrication**  
+↓  
+**Coin Half-Cell Assembly**  
+↓  
+**Structural & Electrochemical Characterization**
+
+![SiGC composite preparation and electrode fabrication workflow](figures/process_flowchart.png)
 
 ---
 
@@ -77,40 +91,27 @@ Two silicon conditions were investigated:
 - **Unsieved Si:** Silicon powder used without sieving
 - **Sieved Si:** Silicon powder passed through a **100 µm mesh**
 
----
-
-## Processing & Electrode Fabrication
-
-### SiGC Composite Synthesis
-
-1. Silicon and graphite were combined according to the selected composition.
-2. Sucrose was used as the carbon precursor.
-3. The precursor mixture underwent hydrothermal processing.
-4. The resulting material was vacuum dried.
-5. Carbonization was performed under an argon atmosphere.
-
-### Electrode Fabrication
-
-The active SiGC material was combined with Super P conductive carbon and PVDF binder.
-
-The slurry was:
-
-- Mixed using a planetary centrifugal mixer
-- Coated onto copper foil using a doctor blade
-- Vacuum dried
-- Calendered
-- Punched into 14 mm electrode discs
-
-Coin half-cells were assembled in an argon glovebox using lithium as the counter electrode.
+This comparison was used to investigate the relationship between particle-size control and electrochemical behavior.
 
 ---
 
-## Experimental Workflow
+## Composite & Electrode Fabrication
 
-![SiGC composite preparation and electrode fabrication workflow](figures/process_flowchart.png)
+The SiGC composite was prepared through sucrose-assisted processing followed by **hydrothermal treatment and high-temperature carbonization under an inert atmosphere**.
+
+The resulting active material was subsequently incorporated into electrodes using:
+
+- SiGC active material
+- Super P conductive carbon
+- PVDF binder
+- NMP solvent
+- Copper foil current collector
+
+The electrode slurry was mixed, doctor-blade coated onto copper foil, vacuum dried, calendered, and punched into electrode discs.
+
+Coin half-cells were assembled in an **argon-filled glovebox** using lithium metal as the counter electrode.
 
 ---
-
 
 ## Characterization
 
@@ -118,97 +119,80 @@ Coin half-cells were assembled in an argon glovebox using lithium as the counter
 
 - ### X-ray Diffraction
 
+XRD was used to examine the crystalline phases present in the synthesized SiGC composite. Diffraction features associated with **graphite and crystalline silicon** were identified, with no detectable SiC by-product reported in the study.
+
 ![X-ray diffraction analysis of SiGC composite materials](figures/xrd_analysis.png)
 
 - ### Transmission Electron Microscopy
 
+TEM was used to investigate the morphology and distribution of silicon and carbon within the composite.
+
 ![TEM microstructure of the SiGC composite](figures/tem_microstructure.png)
 
-- ### Energy-Dispersive X-ray Spectroscopy
+- ### EDS & Elemental Mapping
+
+EDS and elemental mapping were used to examine the elemental composition and spatial distribution of **silicon and carbon** within the composite.
 
 ![EDS analysis of the SiGC composite](figures/eds_analysis.png)
 
-- ### Elemental Mapping
-
 ![Elemental mapping of the SiGC composite](figures/elemental_mapping.png)
 
-### Electrochemical Characterization
+---
 
-- ### Cyclic Voltammetry
+## Electrochemical Evaluation
+
+Electrochemical performance was investigated using:
+
+- **Open-circuit voltage (OCV) measurements**
+- **Cyclic voltammetry (CV)**
+- **Galvanostatic charge–discharge cycling**
+- **Long-term cycling evaluation**
+
+### Cyclic Voltammetry
+
+CV was used to examine the electrochemical response of the SiGC electrode and changes between initial and subsequent cycles.
 
 ![Cyclic voltammetry response of the SiGC electrode](figures/cyclic_voltammetry.png)
 
-- ### Initial Charge–Discharge
+### Charge–Discharge Behavior
 
-![Initial charge-discharge behavior of the SiGC electrode](figures/initial_charge_discharge.png)
+Charge–discharge measurements were used to evaluate specific capacity and cycling behavior.
 
-- ### Final Charge–Discharge
+**Initial cycling**
 
-![Final charge-discharge behavior of the SiGC electrode](figures/final_charge_discharge.png)
+![Initial charge-discharge behavior](figures/initial_charge_discharge.png)
 
----
+**Later cycling**
 
-## Key Results
-
-### Specific Capacity
-
-The six investigated half-cells showed specific capacities in the range of approximately **158–160 mAh/g**.
-
-| Silicon condition | Reported highest capacity |
-|---|---:|
-| Unsieved | **160 mAh/g** |
-| 100 µm sieved | **158.31 mAh/g** |
-
-The unsieved material showed a slightly higher initial specific capacity.
-
-### Capacity Retention
-
-After 100 cycles, the sieved composite showed better retention:
-
-| Silicon condition | Capacity retention after 100 cycles |
-|---|---:|
-| Unsieved | **76.5%** |
-| 100 µm sieved | **85%** |
-
-This indicates a trade-off between initial capacity and long-term cycling stability.
+![Later-cycle charge-discharge behavior](figures/final_charge_discharge.png)
 
 ---
 
-## Electrochemical Behavior
+## Key Research Outcome
 
-The representative B2 half-cell was evaluated by cyclic voltammetry between **0.005 and 1.5 V** at a scan rate of **0.1 mV/s** for four cycles.
+The comparison between sieved and unsieved SiGC composites revealed a processing–performance trade-off:
 
-The first cycle differed from subsequent cycles, while cycles 2–4 showed comparatively similar behavior.
+> **The condition producing the highest initial capacity did not produce the best long-term capacity retention.**
 
-Charge-discharge profiles showed:
+The unsieved material exhibited slightly higher initial specific capacity, whereas the sieved material demonstrated improved capacity retention after extended cycling.
 
-- Initial capacities above 150 mAh/g
-- Lower capacity during later cycling
-- More uniform charge-discharge behavior during cycles 96–100
+This result highlights **silicon particle-size control as an important processing parameter** in balancing initial electrochemical performance with cycling durability in SiGC composite anodes.
 
----
-
-## Structural & Microstructural Findings
-
-XRD identified diffraction features associated with graphite and crystalline silicon. The manuscript reports no detectable formation of SiC by-products.
-
-Elemental mapping and TEM were used to examine the distribution of silicon and carbon. The study reports carbon encapsulation/coating around nano-Si and adhesion of the carbon-coated silicon to the graphite surface.
-
-The carbonaceous component was investigated as a potential means of improving electrical transport and accommodating silicon volume changes during cycling.
+Detailed quantitative results and analysis are reserved for the associated manuscript.
 
 ---
 
-## Research Insight
+## Data Availability
 
-The comparison between sieved and unsieved silicon highlighted an important processing–performance relationship:
+This repository is intended as a **research portfolio and project overview**.
 
-**Slightly higher initial capacity ≠ better long-term cycling stability.**
-
-The unsieved SiGC composite achieved the highest reported initial capacity, while the sieved composite demonstrated substantially better capacity retention after 100 cycles.
-
-This makes silicon particle-size control an important processing variable for balancing capacity and cycling durability.
+Raw experimental data, laboratory records, detailed processing parameters, and complete quantitative analysis are not publicly distributed through this repository. Detailed results will be made available as appropriate following publication.
 
 ---
+
+## Note
+
+The figures included here are selected research visuals intended to provide an overview of the project. Please do not reproduce or redistribute unpublished research material without permission.
 
 This work was conducted as part of research at the [Energy Science Laboratory, IISER Pune](https://satishogale.wixsite.com/sbolab), with support from the **Department of Metallurgy and Materials Technology, COEP Technological University**.
 
