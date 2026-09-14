@@ -1,4 +1,6 @@
-# SiGC Lithium-Ion Battery Anodes
+# Silicon-Graphite Composite (SiGC) Anodes for High-Performance Li-ion Batteries
+
+**Research Intern, Li-ion Battery Materials** — [Indian Institute of Science Education and Research (IISER)](https://www.iiserpune.ac.in/), Pune
 
 ### Development and electrochemical evaluation of sucrose-derived silicon–graphite–carbon composite anodes
 
@@ -208,34 +210,14 @@ This makes silicon particle-size control an important processing variable for ba
 
 ---
 
-This work was conducted as part of research at the **Energy Science Laboratory, IISER Pune**, with support from the **Department of Metallurgy and Materials Technology, COEP Technological University**.
+This work was conducted as part of research at the [Energy Science Laboratory, IISER Pune](https://satishogale.wixsite.com/sbolab), with support from the **Department of Metallurgy and Materials Technology, COEP Technological University**.
 
 The manuscript acknowledges the guidance of **Dr. Satishchandra Ogale and his research team**.
 
 ---
 
-## Project Workflow
+## Presentation
 
-```text
-Si + Graphite + Sucrose
-          ↓
-   Hydrothermal Treatment
-          ↓
-       Drying
-          ↓
-  Carbonization under Ar
-          ↓
-       SiGC Composite
-          ↓
-   Electrode Fabrication
-          ↓
-     Coin Half-Cells
-          ↓
- ┌────────┼─────────┐
- ↓        ↓         ↓
-XRD     TEM/EDS   Electrochemistry
-                    ↓
-          CV + Charge/Discharge
-                    ↓
-        Capacity & Cycling Analysis
+Findings presented as a poster, "Enhancing SiGC Composites for High-Performance Li-ion Batteries," at the International Conference on Electrochemical Science and Technology (ICONEST'24).
 
+Note: This repository documents the research conducted during this internship. Raw data and lab records remain with IISER Pune; this write-up summarizes methodology and findings for portfolio purposes.
